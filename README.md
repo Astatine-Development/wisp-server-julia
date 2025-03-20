@@ -6,7 +6,9 @@ Another port of wisp server to a semi obscure language, Unbenchmarked because I 
 
 Usage:
 `install julia https://julialang.org/downloads/`
+
 `~>` `julia wisp.jl`
+
 `runs by default on 127.0.0.1:6001/wisp/`
 
 Takeaways:
