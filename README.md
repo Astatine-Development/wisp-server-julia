@@ -2,7 +2,7 @@
 Another wisp server in an obscure language! How spectacular!
 **DO NOT USE ON PROD**
 
-Another port of wisp server to a semi obscure language, Unbenchmarked because I coudnt get wispmark to behave with this thing even after modify it a lot (wispmark sucks) but julia is decently fast for A JIT language, Close to C++ speeds with a ruby,python ish syntax. Pretty cool since it can also natively run on GPUs (not this wisp server but julia code in general) its a fun language dispite it mainly being used for math and statistcs its very general purpose too and very easy to scale since its incredibly simple to distribute compute with it.
+Another port of wisp server to a semi obscure language, Unbenchmarked because I coudnt get wispmark to behave with this thing even after modify it a lot (wispmark sucks) but julia is decently fast for A JIT language, Close to C++ speeds with a ruby,python ish syntax. Pretty cool since it can also natively run on GPUs (not this wisp server but julia code in general) its a fun language dispite it mainly being used for math and statistics its very general purpose too and very easy to scale since its incredibly simple to distribute compute with it.
 
 Usage:
 `install julia https://julialang.org/downloads/`
