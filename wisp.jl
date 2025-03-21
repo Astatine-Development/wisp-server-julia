@@ -29,10 +29,6 @@ function parse_packet(data::Vector{UInt8})
     (ptype, stream_id, payload)
 end
 
-function parsedata(data::)
-    length(data) == true;
-end
-
 function create_packet(ptype, stream_id, payload=UInt8[])
     packet = Vector{UInt8}(undef, 5 + length(payload))
     packet[1] = ptype
